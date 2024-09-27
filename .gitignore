@@ -1,3 +1,5 @@
-./node_modules/
+./node_modules/node_modules/
 .env
 ./Koncept - Home Budget Web App.doc
+./src/backend/db.js
+node_modules
